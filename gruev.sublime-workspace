@@ -1,0 +1,1245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"med",
+				"media/"
+			],
+			[
+				"co",
+				"contact.html"
+			],
+			[
+				"pa",
+				"page-portfolio.php"
+			],
+			[
+				"po",
+				"portfolio-page.php"
+			],
+			[
+				"c",
+				"contact.html"
+			],
+			[
+				"in",
+				"investment.html"
+			],
+			[
+				"por",
+				"pos-r	position: relative;"
+			],
+			[
+				"mh",
+				"min-height"
+			],
+			[
+				"content",
+				"content-4.less"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"con",
+				"content-2.less"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"bo",
+				"bootstrap.less"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"s",
+				"sprite.less"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"on",
+				"on"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"medi",
+				"media	less-media"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/gruev-page/index.php",
+			"settings":
+			{
+				"buffer_size": 6952,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/gruev-page/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/gruev-page/functions.php",
+			"settings":
+			{
+				"buffer_size": 4287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/gruev-page/header.php",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/gruev-page/style.css",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"moni",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mon",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"exp",
+				"Format CSS: Expanded"
+			],
+			[
+				"ex",
+				"Format CSS: Expanded"
+			],
+			[
+				"expa",
+				"Format CSS: Expanded"
+			],
+			[
+				"Snippet: ",
+				"Snippet: sprite"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"hy",
+				"Hyperlink Helper: Wrap Word / Selection as Link"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"momi",
+				"Snippet: media-mobile"
+			],
+			[
+				"mobi",
+				"Snippet: media-mobile"
+			],
+			[
+				"hype",
+				"Hyperlink Helper: Lookup with Google & Link"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"gulp",
+				"Snippet: gulp.task('name',function)"
+			],
+			[
+				"togglee",
+				"ToggleExclude: Conditional File / Folder Patterns: Enable"
+			],
+			[
+				"mo",
+				"SFTP: Monitor File (Upload on External Save)"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet col",
+				"Snippet: css-color"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/wordpress.local/gruev/wp-content/themes/gruev-page",
+		"/Applications/MAMP/htdocs/wordpress.local/gruev/wp-content/themes/gruev-page/assets",
+		"/Applications/MAMP/htdocs/wordpress.local/gruev/wp-content/themes/gruev-page/assets/stylesheets",
+		"/Applications/MAMP/htdocs/wordpress.local/gruev/wp-content/themes/gruev-page/assets/stylesheets/css"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wordpress.local/gruev/wp-content/themes/gruev-page/assets/javascripts/script.coffee",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/archive.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/header.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/jumbotron.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/index.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/functions.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/features.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-7.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/sftp-config.json",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/404.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/footer.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/main.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/custom.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/404.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/header.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/style.css",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/fonts.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/sprite.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-8.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-5.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-4.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-2.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-1.less",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/sprite.sublime-snippet",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/scripts.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/footer.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/css/bigvideo.css",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/gulpfile.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/content-block-6.less",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/primeg-social.sublime-snippet",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/sitemap.xml",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/robots.txt",
+		"/Users/user/Desktop/yandex_461a05aa3790d825.html",
+		"/Users/user/Desktop/sitemap.html",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/user/Desktop/urllist.txt",
+		"/Users/user/Desktop/sitemap.xml",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/css/main.css",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/animation.less",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/variables.less",
+		"/private/var/folders/6t/36j9mlkj5bn0ck5m9nwkfgcw0000gn/T/.entp.B2T5eW/0/stylesheet.css",
+		"/private/var/folders/6t/36j9mlkj5bn0ck5m9nwkfgcw0000gn/T/.entp.ANDM6m/0/prox.css",
+		"/Users/user/Desktop/stylesheet.css",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/fonts/proximanova-bold-demo.html",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less/front-page.less",
+		"/Users/user/Desktop/BigVideo.js-gh-pages/example-ambient-loop.html",
+		"/Users/user/Desktop/index.html",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/bigvideo.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/imagesloaded.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/jquery.cycle.all.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/jquery.parallax.js",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/media/350950055.mp4",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/5874F2FD-1191-4DE9-8C62-77EDBEBD1317/functions.php",
+		"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/js/video.js",
+		"/Users/user/Desktop/Learn JS/index.html",
+		"/Users/user/Desktop/Learn JS/less/style.less",
+		"/Users/user/Desktop/Learn JS/js/scripts.js",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/assets/javascripts/script.js",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/header.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/functions.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/footer.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/single.php",
+		"/Users/user/Library/Caches/Cleanup At Startup/Transmit/39531E99-3244-46F6-9576-B09FEFDD1F8E/wp-config.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/index.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/page-services-contacts.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/page-cables-animals.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/page-armies-tunnelling.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/page-header-hospitals.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/sass/style.scss",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/services-contacts.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/cables-animals.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/header-hospitals.php",
+		"/Applications/MAMP/htdocs/wordpress.local/tech_plus/wp-content/themes/tech-plus/armies-tunnelling.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/footer.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/js/scripts.js",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/header.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/header.less",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/3EC612F5-AD50-450D-B66E-63866BC6B2E8/scroll.tpl",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/D0789228-0E1B-4016-8093-C0616F520A72/scroll.js",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/faq.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-other.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/template.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-contact.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/contact.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-about.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/aboutus.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-blog.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/investment.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-investment.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/blog.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/bootstrap.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page-portfolio.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/portfolio.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/custom.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/index.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/page.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/404.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/.htaccess",
+		"/Applications/MAMP/htdocs/wordpress.local/Ent/.htaccess",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/blog-page.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/blog-page.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/gulpfile.js",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/index.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/functions.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/sprite-retina.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/investment.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/less/style.less",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/config.codekit",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/single.html",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/style.css",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/inc/custom-header.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/inc/customizer.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/inc/extras.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/inc/template-tags.php",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/CAA66578-49F9-4AA5-8183-56ACAC4343F9/functions.php",
+		"/Users/user/Desktop/knight-and-dame/gulpfile.js",
+		"/Users/user/Desktop/knight-and-dame/package.json",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/9558912F-AB53-48ED-A706-E4DB637860CF/functions.php",
+		"/Users/user/Library/Containers/com.evernote.Evernote/Data/Library/Application Support/com.evernote.Evernote/accounts/www.evernote.com/27172961/external-edits/E8918511-DE29-4640-AB29-57A2571A0E13/functions.php",
+		"/Applications/MAMP/htdocs/wordpress.local/knight-and-dame/wp-content/themes/knight-and-dame/knight-and-dame.sublime-workspace",
+		"/Users/user/Desktop/knight-and-dame/less/faq.less",
+		"/Users/user/Desktop/knight-and-dame/faq.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"—  ",
+			"— ",
+			"Connect",
+			"Contacts",
+			"build system gulpjs",
+			"Skills",
+			"About",
+			"cont-connect",
+			"Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!",
+			"<h1",
+			"<h1 class=\"widget-title\">",
+			"<aside id=",
+			"<h1",
+			"div",
+			"404",
+			"vio",
+			"200",
+			"margin-top: 32px",
+			"    margin-top: 32px",
+			"containe",
+			"container",
+			"line",
+			"span",
+			".sprite(",
+			"5",
+			".sprite",
+			".sprite(",
+			"^",
+			"big-video-wrap",
+			"__heartbeat",
+			"retina-sprite",
+			"__heartbeat",
+			"hb",
+			"vost.png",
+			"cb-5",
+			"map-point",
+			"logo3",
+			"slider__logo",
+			"logo2",
+			"logo",
+			"logo2.png",
+			"light.png",
+			"ico-fb.png",
+			"<h1>",
+			"contac",
+			"input",
+			"youtube",
+			"youtubee",
+			"showinfo=\"0\" ",
+			"theme=\"light\" ",
+			"allowfullscreen",
+			"autohide=\"1\"",
+			"modestbranding=\"1\"",
+			"allowfullscreen",
+			"video-iframe",
+			"fadeInLeft",
+			"how-it-work-video",
+			"content-block-5",
+			"map-point12x.png",
+			"map-point",
+			"yout",
+			"btn",
+			"logo-item-box",
+			"language",
+			"lang",
+			"big-video-wrap",
+			"btn",
+			"line",
+			"btns",
+			"-3",
+			"#big-video-wrap",
+			"vids",
+			"bigvideo.css",
+			"css",
+			"video",
+			"HowMadeWorksTitle",
+			"<a href=\"#\" id=\"HowMadeWorksTitle\">How Made.com works <span class=\"chevron\">»</span></a>",
+			"renti",
+			"hospitals",
+			"serv",
+			"rent",
+			"servi",
+			"renting",
+			"Company",
+			"pt",
+			"Our trainings",
+			"cables_gallery_images",
+			"cables",
+			"animals_gallery_images",
+			"gallery_5_images",
+			"gallery_4_images",
+			"gallery_3_images",
+			"gallery_2_images",
+			"Hospitals",
+			"full-size-gallery",
+			";\n",
+			"							</",
+			"full-size-gallery",
+			"army",
+			"hospi",
+			"google-map-wrap",
+			"map",
+			"maps",
+			"map",
+			"maps",
+			"threed",
+			"icon-activ",
+			"h",
+			"<?php echo home_url(); ?>/portfolio-page",
+			"<?php echo home_url(); ?>/blog-page",
+			"portfolio",
+			"/blog-page",
+			"<?php bloginfo('template_url') ?>/",
+			"blog",
+			"<li>",
+			"faq-active",
+			"h3",
+			"cont",
+			"$(this)",
+			"speed",
+			"_this",
+			"faq",
+			"cont",
+			"h3",
+			"cont",
+			"button--wayra",
+			"bg-1",
+			"button--size-s"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blog-page"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/gruev-page/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5930,
+								5930
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "php",
+							"buffer_scroll_name": "b3778481",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/gruev-page/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2835,
+								2835
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "d3a66171",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmtheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 934.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/gruev-page/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3684,
+								3590
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "php",
+							"buffer_scroll_name": "d6086e96",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/gruev-page/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "php",
+							"buffer_scroll_name": "0ff70353",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/gruev-page/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css",
+							"buffer_scroll_name": "4c990b47",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmtheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "gruev.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"coff",
+				"assets/javascripts/script.coffee"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"ju",
+				"less/jumbotron.less"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"404",
+				"404.php"
+			],
+			[
+				"foo",
+				"less/footer.less"
+			],
+			[
+				"ma",
+				"less/main.less"
+			],
+			[
+				"s",
+				"sftp-config.json"
+			],
+			[
+				"cu",
+				"less/custom.less"
+			],
+			[
+				"7",
+				"less/content-block-7.less"
+			],
+			[
+				"fro",
+				"front-page.php"
+			],
+			[
+				"fe",
+				"less/features.less"
+			],
+			[
+				"mai",
+				"less/main.less"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"fon",
+				"less/fonts.less"
+			],
+			[
+				"",
+				"less/main.less"
+			],
+			[
+				"spr",
+				"less/sprite.less"
+			],
+			[
+				"40",
+				"less/404.less"
+			],
+			[
+				"sc",
+				"js/scripts.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"fr",
+				"front-page.php"
+			],
+			[
+				"foote",
+				"footer.php"
+			],
+			[
+				"6",
+				"less/content-block-6.less"
+			],
+			[
+				"5",
+				"less/content-block-5.less"
+			],
+			[
+				"4",
+				"less/content-block-4.less"
+			],
+			[
+				"1",
+				"less/content-block-1.less"
+			],
+			[
+				"2",
+				"less/content-block-2.less"
+			],
+			[
+				"fo",
+				"less/fonts.less"
+			],
+			[
+				"jum",
+				"less/jumbotron.less"
+			],
+			[
+				"cou",
+				"less/custom.less"
+			],
+			[
+				"an",
+				"less/animation.less"
+			],
+			[
+				"va",
+				"less/variables.less"
+			],
+			[
+				"jub",
+				"less/jumbotron.less"
+			],
+			[
+				"8",
+				"less/content-block-8.less"
+			],
+			[
+				"head",
+				"less/header.less"
+			],
+			[
+				"heade",
+				"less/header.less"
+			],
+			[
+				"header",
+				"less/header.less"
+			],
+			[
+				"hear",
+				"header.php"
+			],
+			[
+				"jumb",
+				"less/jumbotron.less"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"scr",
+				"assets/javascripts/script.js"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"se",
+				"page-services-contacts.php"
+			],
+			[
+				"cab",
+				"page-cables-animals.php"
+			],
+			[
+				"ar",
+				"page-armies-tunnelling.php"
+			],
+			[
+				"ser",
+				"page-services-contacts.php"
+			],
+			[
+				"ca",
+				"page-cables-animals.php"
+			],
+			[
+				"pah",
+				"page-header-hospitals.php"
+			],
+			[
+				"scri",
+				"assets/javascripts/script.js"
+			],
+			[
+				"conta",
+				"page-services-contacts.php"
+			],
+			[
+				"a",
+				"armies-tunnelling.php"
+			],
+			[
+				"oth",
+				"page-other.php"
+			],
+			[
+				"f",
+				"faq.html"
+			],
+			[
+				"contac",
+				"page-contact.php"
+			],
+			[
+				"inve",
+				"investment.html"
+			],
+			[
+				"inv",
+				"page-investment.php"
+			],
+			[
+				"te",
+				"template.php"
+			],
+			[
+				"bl",
+				"page-blog.php"
+			],
+			[
+				"abo",
+				"about-page.php"
+			],
+			[
+				"boo",
+				"less/bootstrap.less"
+			],
+			[
+				"po",
+				"page-portfolio.php"
+			],
+			[
+				"blo",
+				"blog-page.php"
+			],
+			[
+				"les",
+				"less/custom.less"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"fa",
+				"less/faq.less"
+			],
+			[
+				"side",
+				"less/sidebar.less"
+			],
+			[
+				"sid",
+				"less/sidebar.less"
+			],
+			[
+				"con",
+				"less/contact.less"
+			],
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"por",
+				"portfolio.html"
+			],
+			[
+				"si",
+				"single.html"
+			],
+			[
+				"bo",
+				"less/bootstrap.less"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"3",
+				"less/content-3.less"
+			],
+			[
+				"ab",
+				"less/aboutus.less"
+			],
+			[
+				"cus",
+				"less/custom.less"
+			],
+			[
+				"sp",
+				"less/sprite.less"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gi",
+				".gitignore"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
+				"fus",
+				"functions.php"
+			],
+			[
+				"10",
+				"less/content-block-10.less"
+			],
+			[
+				"9",
+				"less/content-block-9.less"
+			],
+			[
+				"j",
+				"less/jumbotron.less"
+			],
+			[
+				"sy",
+				"style.css"
+			],
+			[
+				"le",
+				"less/custom.less"
+			],
+			[
+				"v",
+				"less/variables.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/wordpress.local/Vost/wp-content/themes/vost/vost.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

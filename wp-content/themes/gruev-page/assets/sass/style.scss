@@ -1,0 +1,219 @@
+@import "_mixins.scss";
+
+// FONTS
+@include font-face('GothaPro Reg', 'gothaproreg-webfont');
+@include font-face('GothaPro Med', 'gothapromed-webfont');
+@include font-face('GothaPro Bla', 'gothaprobla-webfont');
+
+$f-gp-reg: 'GothaPro Reg';
+$f-gp-med: 'GothaPro Med';
+$f-gp-bla: 'GothaPro Bla';
+
+// Retina sprite
+@import 'sprites.scss';
+
+@import "base/_index.scss";
+@import "UI/_index.scss";
+
+// Magnific Popup - https://github.com/dimsemenov/Magnific-Popup
+@import "_mp-settings.scss";
+@import "_mp-main.scss";
+
+body {
+  font: 1em $f-gp-reg, Tahoma, Arial, sans-serif;
+  color: #25282a;
+}
+
+//////////////////////////////////////////
+//                                      //
+//            MAIN SETTING              //
+//                                      //
+//////////////////////////////////////////
+
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  padding: 0 4%;
+  max-width: 640px;
+  margin: 0 auto 6em;
+}
+
+.row:after {
+  display: table;
+  content: '';
+  height: 0;
+  visibility: hidden;
+  clear: both;
+}
+
+.grid, .m-grid {
+  float: left;
+}
+
+[class*="m-box"] {
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+@include grid(100%, 4%, true, 12);
+@include grid(100%, 4%, false, 12);
+
+.disable-hover {
+  pointer-events: none;
+}
+
+.placeholder {
+  line-height: 1.2;
+}
+
+//////////////////////////////////////////
+//                                      //
+//             MAIN STYLES              //
+//                                      //
+//////////////////////////////////////////
+
+
+a {
+  transition: 0.3s;
+}
+
+.link {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    height: 1px; width: 100%;
+    position: absolute;
+    transition: 0.3s;
+  }
+  &:before {
+    content: '';
+    right: 0;
+    width: 100%;
+    background-color: #2ea1e3;
+    z-index: 1;
+    bottom: -3px;
+  }
+  &:after {
+    width: 0;
+    left: 0;
+    background-color: #ff6666;
+    z-index: 2;
+    bottom: -3px;
+  }
+  &:hover {
+    &:before {
+      width: 0;
+    }
+    &:after {
+      width: 100%;
+    }
+  }
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  display: table-cell;
+  width: 1.31em;
+  height: 1.31em;
+  fill: #fff;
+}
+
+//////////////////////////////////////////
+//                                      //
+//               CONTENT                //
+//                                      //
+//////////////////////////////////////////
+
+.header {
+  margin-bottom: 4em;
+  .h1-hl {
+    color: #fff;
+    background-color: #ff6666;
+  }
+  .h3-hl {
+    color: #fff;
+    background-color: #c2b4f0;
+    padding: 2px 6px 4px;
+  }
+}
+
+.lang-nav {
+  color: #ccc;
+  padding: 3em 0 1em;
+  text-align: center;
+  li {
+    font-size: 0.8em;
+    display: inline-block;
+  }
+}
+
+.social {
+  li {
+    display: inline-block;
+    a {
+      display: table;
+      width: 100%; height: 100%;
+      text-align: center;
+      transition: 0.2s;
+      border-radius: 50%;
+      background-color: #000;
+      padding: 8px;
+    }
+  }
+  .soc-dr,
+  .soc-in,
+  .soc-fb {
+
+  }
+  .soc-dr {
+    &:hover {
+      background-color: #ea4c89;
+    }
+  }
+  .soc-in {
+    &:hover {
+      background-color: #007bb6;
+    }
+  }
+  .soc-fb {
+    &:hover {
+      background-color: #3b5998;
+    }
+  }
+}
+
+.modal-popup {
+  h2 {
+    margin-bottom: 0.5em;
+  }
+  position: relative;
+  padding: 4em;
+  background-color: #FFF;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-form {
+  max-width: 600px;
+  .cont-msg {
+    min-height: 120px;
+    margin-bottom: 3em;
+  }
+  .cont-inp {
+    width: 47%;
+    &:first-child {
+      margin-right: 4.8%;
+    }
+  }
+}
+
+
+
+

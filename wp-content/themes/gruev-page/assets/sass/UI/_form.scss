@@ -1,0 +1,159 @@
+/* FORM
+_______________________________________________________________________*/
+
+$c-red: #f44e4f;
+$ph-color: #ddd;
+$btn-c-red: #F66;
+
+textarea,
+input {
+  border-bottom: 2px solid #000;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  padding: 13px 5px;
+  &::-webkit-input-placeholder {
+    color: $ph-color;
+    line-height: 1.5;
+  }
+  &::-moz-placeholder {
+    color: $ph-color;
+    line-height: 1.2;
+  }
+  &:-ms-input-placeholder {
+    color: $ph-color;
+    line-height: 1.25;
+  }
+}
+
+input[type="tel"],
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="search"] {
+  line-height: 1.4;
+  margin-bottom: 20px;
+  &::-ms-clear {
+    display: none;
+  }
+}
+
+input[type=search] {
+  -webkit-appearance: none;
+  &::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+  }
+}
+
+input[type=email]:invalid {
+  border-bottom: 2px solid $c-red;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  box-shadow: none;
+}
+
+input[type=tel]:invalid {
+  border-bottom: 2px solid $c-red;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  box-shadow: none;
+}
+
+input[type=search] {
+  -webkit-appearance: none;
+  &::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+  }
+}
+
+textarea {
+  line-height: 1.4;
+  width: 100%;
+  resize: none;
+}
+
+/* BUTTONS
+_______________________________________________________________________*/
+
+$b-c-def: #F66;
+$b-c-mag: #c2b4f0;
+
+.btn {
+  border: 0;
+  padding: 1em 2em;
+  color: #fff;
+  background-color: #ddd;
+}
+
+.btn-default {
+  background: $b-c-def;
+  &:hover {
+    background: adjust-lightness($b-c-def, 1%);
+  }
+  &:active {
+    background: adjust-lightness($b-c-def, -2%);
+  }
+}
+
+
+.has-error {
+  border-bottom: 2px solid $b-c-def;
+}
+
+.has-success {
+  border-bottom: 2px solid $b-c-mag;
+}
+
+button:disabled {
+  background-color: #d8d8d8;
+  &:hover {
+    background-color: #d8d8d8;
+  }
+}
+
+
+.unload-file {
+  background-color: $b-c-mag;
+  color: transparent;
+  -webkit-transition: background 0.2s;
+  -moz-transition: background 0.2s;
+  -ms-transition: background 0.2s;
+  -o-transition: background 0.2s;
+  transition: background 0.2s;
+  position: relative;
+  margin-right: 2%;
+
+  cursor: pointer;
+  text-align: center;
+  vertical-align: top;
+  display: inline-block;
+  .file-text {
+    display: inline-block;
+    color: #fff;
+  }
+  #file {
+    display: none;
+    color: transparent;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  &:hover {
+    background-color: adjust-lightness($b-c-mag, 10%);
+  }
+  &:active {
+    -webkit-box-shadow: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+    transition: none;
+    background-color: adjust-lightness($b-c-mag, -11%);
+  }
+  &.active {
+    background-color: #9CCE5A;
+  }
+}
